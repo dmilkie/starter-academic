@@ -56,8 +56,7 @@ experience:
     date_start: '2002-09-01'
     date_end: '2008-05-01'
     description: |2-
-        Studied and measured carbon nanotubes using optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  Multi-day measurement averaging and mapping of large parameter space required heavy (and robust!) automation. 
-    
+        Studied and measured carbon nanotubes using optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  Multi-day measurement averaging and mapping of large parameter space required heavy (and robust!) automation.
         I learned and loved to build control algorithms for collecting and analyzing these data automatically, and got a big kick out of bringing that over to a multi-user facility.
     
     
