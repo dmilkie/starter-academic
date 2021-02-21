@@ -20,7 +20,7 @@ social:
     link: https://github.com/dmilkie/
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/dan-milkie
+    link: https://www.linkedin.com/in/dan-milkie/
 organizations:
   - name: Betzig Lab / Janelia Research Campus
     url: https://www.janelia.org/lab/betzig-lab
