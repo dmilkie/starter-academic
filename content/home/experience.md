@@ -42,11 +42,11 @@ experience:
     date_start: '2008-05-01'
     date_end: '2015-10-01'
     description: |2-
-        Grew a machine vision-centric company while solving industrial part-inspection tasks and scientific research automation challenges.
+        Grew a small machine vision-centric company, while solving industrial part-inspection tasks and scientific research automation challenges.
         
         * Built systems to inspect: Dinnerware, truck brakes, agriculture seeds, optical fiber, mass flow controllers,...
-        * Point-cloud 3D laser height mapping, bright & dark field imaging, Area scan and Conveyor-based line scan camera systems
-        * Oversaw projects, contracts, sales, small teams, recruitment, and timelines.
+        * Point-cloud 3D laser height mapping, bright & dark field imaging, Area scan cameras, and Conveyor-based line-scan camera systems
+        * Oversaw projects, contracts, budgets, sales, small teams, recruitment, and timelines...and other the many hats that come with a small business.
     
     
   - title: Graduate Student Researcher
@@ -56,8 +56,8 @@ experience:
     date_start: '2002-09-01'
     date_end: '2008-05-01'
     description: |2-
-        Studied and measured carbon nanotubes using optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  Multi-day measurement averaging and mapping of large parameter space required heavy (and robust!) automation.
-        I learned and loved to build control algorithms for collecting and analyzing these data automatically, and got a big kick out of bringing that over to a multi-user facility.
+        Studied and measured carbon nanotubes using optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  
+        Multi-day measurement averaging and mapping of large parameter space required heavy (and robust!) automation. I learned and loved to build control algorithms for collecting and analyzing these data automatically, and got a big kick out of bringing that over to a multi-user facility.
     
     
 ---
