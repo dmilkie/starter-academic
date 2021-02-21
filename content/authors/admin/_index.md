@@ -1,6 +1,6 @@
 ---
 title: Nelson Bighetti
-role: Senior Scientist @ HHMI/Janelia Research Campus
+role: Senior Scientist @ [HHMI/Janelia Research Campus](www.janelia.org)
 bio: My research interests include microscopy, accelerating experiments with
   software.
 interests:
