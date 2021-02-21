@@ -1,12 +1,12 @@
 ---
 title: Nelson Bighetti
-role: Senior Scientist
+role: Senior Scientist @ HHMI/Janelia Research Campus
 bio: My research interests include microscopy, accelerating experiments with
   software.
 interests:
   - Microscopy
   - Machine Vision
-  - null
+  - LabVIEW
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,12 +38,14 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Dan Milkie is a senior scientist at Janelia Research Campus.  His research interests include advanced light microscopy including super resolution and adaptive optics.  
+Dan Milkie is a Senior Scientist at Janelia Research Campus in Nobel Laureate [Eric Betzig's group](https://www.janelia.org/lab/betzig-lab).  His research interests include advanced light microscopy including super resolution and adaptive optics.  
 
 Cells did not evolve to live on the glass coverslip nor under the burning intensity of high power lasers. Unlocking what cells and biology are doing *dynamically* and in their *native* environment is key to understanding how complex biologic systems work.  
 
-Dan designs control hardware and creates the control software for all the Betzig Group microscopes (Lattice Light Sheet, Structured Illumination, Adaptive Optics Lattice Light Sheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and brings to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  These microscopy platforms deliver a firehose of 4D data and with it a host of new challenges (data transfer, storage, curation, processing, visualization, analysis) that Dan is also interested in.
+Dan creates the microscope control hardware and software for all the Betzig Group microscopes (Lattice Light Sheet, Structured Illumination, Adaptive Optics Lattice Light Sheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and brings to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
 
 Dan builds novel advanced imaging tools, first, for the hands of power users. The next step involves a large investment: taking that achieved wisdom and baking it into the next evolution of hardware and software design, but it's worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.
+
+The microscopy platforms deliver a firehose of 4D data, generating a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to his future interests.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
