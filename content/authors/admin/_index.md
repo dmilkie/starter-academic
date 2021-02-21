@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Dan Milkie
 role: Senior Scientist @ [HHMI/Janelia Research Campus](www.janelia.org)
 bio: My research interests include microscopy, accelerating experiments with
   software.
@@ -38,14 +38,14 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Dan Milkie is a Senior Scientist at Janelia Research Campus in Nobel Laureate [Eric Betzig's group](https://www.janelia.org/lab/betzig-lab).  His research interests include advanced light microscopy including super resolution and adaptive optics.  
+I am a Senior Scientist at Janelia Research Campus in Nobel Laureate [Eric Betzig's group](https://www.janelia.org/lab/betzig-lab).  My interests are in tool building for science, including super resolution light microscopy  and adaptive optics.
 
 Cells did not evolve to live on the glass coverslip nor under the burning intensity of high power lasers. Unlocking what cells and biology are doing *dynamically* and in their *native* environment is key to understanding how complex biologic systems work.  
 
-Dan creates the microscope control hardware and software for all the Betzig Group microscopes (Lattice Light Sheet, Structured Illumination, Adaptive Optics Lattice Light Sheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and brings to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
+I create the microscope hardware and software control systems for the Betzig Group (Lattice Light Sheet, Structured Illumination, Adaptive Optics Lattice Light Sheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and bring to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
 
-Dan builds novel advanced imaging tools, first, for the hands of power users. The next step involves a large investment: taking that achieved wisdom and baking it into the next evolution of hardware and software design, but it's worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.
+I builds novel advanced imaging tools, first, for the hands of power users. A large investment comes next: taking that achieved wisdom and baking it into an evolution of the hardware and software, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn in a single lab doing a single experiment.
 
-The microscopy platforms deliver a firehose of 4D data, generating a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to his future interests.
+Volume imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to my future interests.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
