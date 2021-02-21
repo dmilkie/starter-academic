@@ -1,74 +1,47 @@
 ---
-# Display name
 title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Senior Scientist
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Betzig Lab / Janelia Research Campus
-  url: https://www.janelia.org/lab/betzig-lab
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include microscopy, accelerating experiments with software.
-
-# Interests to show in About widget
+bio: My research interests include microscopy, accelerating experiments with
+  software.
 interests:
-- Microscopy 
-- Machine Vision
-- 
-
-# Education to show in About widget
+  - Microscopy
+  - Machine Vision
+  - null
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: Betzig Lab / Janelia Research Campus
+    url: https://www.janelia.org/lab/betzig-lab
 education:
   courses:
-  - course: PhD in Physics
-    institution: University of Pennsylvania
-    year: 2008
-  - course: BSc in Physics
-    institution: The College of William and Mary
-    year: 2002
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Physics
+      institution: University of Pennsylvania
+      year: 2008
+    - course: BSc in Physics
+      institution: The College of William and Mary
+      year: 2002
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+Dan Milkie is a senior scientist at Janelia Research Campus. Cells did not evolve to live on the glass coverslip nor under the burning intensity of high power lasers. Unlocking what cells and biology are doing *dynamically* and in their *native* environment is key to understanding how complex biologic systems work.  Dan's research interests include advanced light microscopy including super resolution and adaptive optics.  
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dan designs the control hardware and writes the control software for all the Betzig Group microscopes (Lattice Lightsheet, Structured Illumination, Adpative Optics Lattice Lightsheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and brings to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras, ).  These microscopy platforms deliver a firehose of data, and brins about  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dan builds these novel advanced imaging tools, first, for the hands of power users. Then by baking the achieved wisdom into the hardware design and software, the next evolution of the tools pays off with wide impact distribution, commericalization, and use by non-specialists.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
