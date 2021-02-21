@@ -7,22 +7,19 @@ interests:
   - Microscopy
   - Machine Vision
   - LabVIEW
+  - Python
+  - Automation
+  - Efficiency
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dmilkie/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/dan-milkie
 organizations:
   - name: Betzig Lab / Janelia Research Campus
     url: https://www.janelia.org/lab/betzig-lab
@@ -44,8 +41,8 @@ Cells did not evolve to live on the glass coverslip nor under the burning intens
 
 I create the microscope hardware and software control systems for the Betzig Group (Lattice Light Sheet, Structured Illumination, Adaptive Optics Lattice Light Sheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and bring to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
 
-I builds novel advanced imaging tools, first, for the hands of power users. A large investment comes next: taking that achieved wisdom and baking it into an evolution of the hardware and software, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn in a single lab doing a single experiment.
+I build novel advanced imaging tools, first, for the hands of power users. Then a large investment comes next: taking that achieved wisdom and baking it into the hardware and software, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn machine in a single lab doing a solo experiment.
 
-Volume imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to my future interests.
+Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to my future interests.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
