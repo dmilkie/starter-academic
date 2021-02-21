@@ -1,6 +1,7 @@
 ---
 title: Dan Milkie
 role: Senior Scientist @ [HHMI/Janelia Research Campus](www.janelia.org)
+avatar_filename: avatar.png
 bio: My research interests include microscopy, accelerating experiments with
   software.
 interests:
