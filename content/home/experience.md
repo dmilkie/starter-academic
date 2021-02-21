@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Senior Scientist
+    company: HHMI, Janelia Research Campus
+    company_url: 'https://www.janelia.org'
+    location: Ashburn, VA
+    date_start: '2015-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        I designed the hardware control and built the software for all the microscopes
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lattice Light Sheet
+        * Structured Illumination Micrsocope
+        * MOSAIC (Adaptive Optics added to everything we can in one scope)
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Vice President of Scientific Software
+    company: Sciotex/Coleman Technologies
+    company_url: 'https://sciotex.com/'
+    location: Newtown Square, PA
+    date_start: '2008-05'
+    date_end: '2015-10'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
