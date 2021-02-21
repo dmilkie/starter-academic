@@ -29,10 +29,14 @@ experience:
     date_start: '2015-10-01'
     date_end: ''
     description: |2-
-        Created the hardware control system and control software for all microscopes
+        Created the hardware control system and control software for all Betzig microscopes and few others
         
         * Lattice Light Sheet
+        * AO Lattice Light Sheet
+        * AO Bessel
         * Structured Illumination Micrsocope
+        * Opposing Objective Microscope
+        * Cryo-SIM/-PALM
         * MOSAIC (Adaptive Optics added to everything we can in one scope)
         
   - title: VP of Scientific Software
