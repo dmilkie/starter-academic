@@ -41,5 +41,7 @@ experience:
     location: Newtown Square, PA
     date_start: '2008-05'
     date_end: '2015-10'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Grew a machine vision-centric company solving custom industrial inspection tasks, and university research automation challenges.
+    
+    
 ---
