@@ -43,5 +43,14 @@ experience:
     date_end: '2015-10-01'
     description: Grew a machine vision-centric company while solving industrial part-inspection tasks and scientific research automation challenges.
     
+  - title: Graduate Student Researcher
+    company: University of Pennsylvania
+    company_url: 'https://www.physics.upenn.edu/people/standing-faculty/jay-kikkawa'
+    location: Philadelphia, PA
+    date_start: '2002-09-01'
+    date_end: '2008-05-01'
+    description: |2-
+    I spent my time in graduate school studying and measuring carbon nanotubes. I made many optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  Measurements requiring multi-day averaging and mapping of large parameter space required heavy experimental automation. I learned and loved to build control algorithms for collecting and analyzing these data automatically, and brought that over to a multi-user facility.  I also enjoyed exploring my way through the city, while my experiments continued toiling throughout the night.
+    
     
 ---
