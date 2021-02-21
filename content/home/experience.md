@@ -39,8 +39,8 @@ experience:
     company: Sciotex/Coleman Technologies
     company_url: 'https://sciotex.com/'
     location: Newtown Square, PA
-    date_start: '2008-05'
-    date_end: '2015-10'
+    date_start: '2008-05-01'
+    date_end: '2015-10-01'
     description: Grew a machine vision-centric company solving custom industrial inspection tasks, and university research automation challenges.
     
     
