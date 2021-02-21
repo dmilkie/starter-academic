@@ -41,7 +41,13 @@ experience:
     location: Newtown Square, PA
     date_start: '2008-05-01'
     date_end: '2015-10-01'
-    description: Grew a machine vision-centric company while solving industrial part-inspection tasks and scientific research automation challenges.
+    description: |2-
+        Grew a machine vision-centric company while solving industrial part-inspection tasks and scientific research automation challenges.
+        
+        * Built systems to inspect: Dinnerware, truck brakes, agriculture seeds, optical fiber, mass flow controllers,...
+        * Point-cloud 3D laser height mapping, bright & dark field imaging, Area scan and Conveyor-based line scan camera systems
+        * Oversaw projects, contracts, sales, small teams, recruitment, and timelines.
+    
     
   - title: Graduate Student Researcher
     company: University of Pennsylvania
@@ -49,8 +55,7 @@ experience:
     location: Philadelphia, PA
     date_start: '2002-09-01'
     date_end: '2008-05-01'
-    description: |2-
-    I spent my time in graduate school studying and measuring carbon nanotubes. I made many optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  Measurements requiring multi-day averaging and mapping of large parameter space required heavy experimental automation. I learned and loved to build control algorithms for collecting and analyzing these data automatically, and brought that over to a multi-user facility.  I also enjoyed exploring my way through the city, while my experiments continued toiling throughout the night.
+    description: I spent my time in graduate school studying and measuring carbon nanotubes. I made many optical, electrical, and thermal measurements, with some electron microscopy and magnetic measurements along for the ride too.  Measurements requiring multi-day averaging and mapping of large parameter space required heavy experimental automation. I learned and loved to build control algorithms for collecting and analyzing these data automatically, and brought that over to a multi-user facility.  I also enjoyed exploring my way through the city, while my experiments continued toiling throughout the night.
     
     
 ---
