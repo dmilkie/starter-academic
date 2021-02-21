@@ -1,6 +1,6 @@
 ---
 title: Dan Milkie
-role: Senior Scientist @ [HHMI/Janelia Research Campus](www.janelia.org)
+role: Senior Scientist
 avatar_filename: avatar.jpg
 bio: My research interests include microscopy, accelerating experiments with
   software.
@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dan-milkie/
 organizations:
-  - name: Betzig Lab / Janelia Research Campus
+  - name: Betzig Lab @ HHMI, Janelia Research Campus
     url: https://www.janelia.org/lab/betzig-lab
 education:
   courses:
