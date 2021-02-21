@@ -36,7 +36,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Senior Scientist at Janelia Research Campus in Nobel Laureate [Eric Betzig's group](https://www.janelia.org/lab/betzig-lab).  My interests are in tool building for science, including super resolution light microscopy  and adaptive optics.
+I am a Senior Scientist in Nobel Laureate [Eric Betzig's group](https://www.janelia.org/lab/betzig-lab) at the Janelia Research Campus.  My interests are in tool building for science, including super resolution light microscopy and adaptive optics.
 
 Cells did not evolve to live on the glass coverslip nor under the burning intensity of high power lasers. Unlocking what cells and biology are doing *dynamically* and in their *native* environment is key to understanding how complex biologic systems work.  
 
