@@ -44,6 +44,6 @@ I create the microscope hardware and software control systems for the Betzig Gro
 
 I build novel advanced imaging tools, first, for the hands of power users. Then a large investment comes next: taking that achieved wisdom and baking it into the hardware and software, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn machine in a single lab doing a solo experiment.
 
-Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to my future interests.
+Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to my future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
