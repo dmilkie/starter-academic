@@ -29,19 +29,19 @@ experience:
     date_start: '2015-10-01'
     date_end: ''
     description: |2-
-        I designed the hardware control and built the software for all the microscopes
+        Created the hardware control system and control software for all microscopes
         
         * Lattice Light Sheet
         * Structured Illumination Micrsocope
         * MOSAIC (Adaptive Optics added to everything we can in one scope)
         
-  - title: Vice President of Scientific Software
+  - title: VP of Scientific Software
     company: Sciotex/Coleman Technologies
     company_url: 'https://sciotex.com/'
     location: Newtown Square, PA
     date_start: '2008-05-01'
     date_end: '2015-10-01'
-    description: Grew a machine vision-centric company solving custom industrial inspection tasks, and university research automation challenges.
+    description: Grew a machine vision-centric company while solving industrial part-inspection tasks and scientific research automation challenges.
     
     
 ---
