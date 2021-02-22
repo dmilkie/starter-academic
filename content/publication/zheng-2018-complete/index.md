@@ -55,7 +55,7 @@ summary: |2-
   * 23 million images
   * 115 TB on disk
   * Over 1.5 years
-  * ~1/5 of which were acquired autonomously using our custom developed pick and place Autoloader robot.
+  * 1/5 acquired autonomously with custom developed Autoloader robot.
 
 url_pdf: ''
 url_code: ''
