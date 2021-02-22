@@ -47,6 +47,7 @@ publication: "*Cell*"
 featured: true
 image:
   filename: featured.jpg
+  focal_point: RIGHT
 summary: |-
   A full adult fly brain (FAFB), imaged at synaptic resolution using TEM.  
 
