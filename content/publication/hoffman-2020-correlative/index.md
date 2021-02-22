@@ -10,11 +10,23 @@ authors:
   - Kirby R Campbell
   - Melanie Freeman
   - Lei Wang
-  - Daniel E Milkie
+  - admin
   - H Amalia Pasolli
   - Nirmala Iyer
   - John A Bogovic
-  - " others"
+  - Stabley, Daniel R
+  - Shirinifard, Abbas
+  - Pang, Song
+  - David Peale
+  - Kathy Schaefer
+  - Wim Pomp
+  - Chi-Lun Chang
+  - Jennifer Lippincott-Schwartz
+  - Tom Kirchhausen
+  - David J Solecki
+  - Eric Betzig
+  - Harald F Hess
+
 doi: 10.1126/science.aaz5357
 publication: "*Science*"
 abstract: Within cells, the spatial compartmentalization of thousands of
