@@ -34,4 +34,19 @@ abstract: "Drosophila melanogaster has a rich repertoire of innate and learned
 featured: true
 date: 2018-01-01
 publishDate: 2021-02-21T21:49:44.114Z
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://www.ncbi.nlm.nih.gov/pubmed/30033368'
+url_video: ''
+
 ---
