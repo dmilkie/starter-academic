@@ -14,7 +14,20 @@ authors:
   - John Price
   - Corey B Fisher
   - Nadiya Sharifi
-  - " others"
+  - Calle-Schuler, Steven A
+  - Kmecova, Lucia
+  - Ali, Iqbal J
+  - Karsh, Bill
+  - Trautman, Eric T
+  - Bogovic, John A
+  - Hanslovsky, Philipp
+  - Jefferis, Gregory S X E
+  - Kazhdan, Michael
+  - Khairy, Khaled
+  - Saalfeld, Stephan
+  - Fetter, Richard D
+  - Bock, Davi D
+
 doi: 10.1016/j.cell.2018.06.019
 publication: "*Cell*"
 abstract: "Drosophila melanogaster has a rich repertoire of innate and learned
