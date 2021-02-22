@@ -62,7 +62,7 @@ url_video: ""
 date: 2018-01-01
 url_slides: ""
 links:
-  - name: Browse data
+  - name: Surf the data
     url: https://fafb.catmaid.virtualflybrain.org/?pid=1&zp=132880&yp=241444&xp=529482&tool=navigator&sid0=1&s0=8
 publishDate: 2021-02-21T21:49:44.114Z
 url_poster: ""
