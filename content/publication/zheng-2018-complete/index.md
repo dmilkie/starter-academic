@@ -1,6 +1,6 @@
 ---
-title: A complete electron microscopy volume of the brain of adult *Drosophila
-  melanogaster*
+title: A complete electron microscopy volume of the brain of adult Drosophila
+  melanogaster
 publication_types:
   - "2"
 authors:
