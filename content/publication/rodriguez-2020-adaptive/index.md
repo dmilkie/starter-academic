@@ -25,7 +25,7 @@ abstract: >+
   somatosensory-evoked calcium responses in the mouse spinal cord at
   unprecedented depths in vivo.
 
-draft: true
+draft: false
 featured: false
 image:
   filename: featured.png
