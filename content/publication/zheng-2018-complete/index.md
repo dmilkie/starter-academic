@@ -9,7 +9,7 @@ authors:
   - Eric Perlman
   - Camenzind G Robinson
   - Matthew Nichols
-  - Daniel Milkie
+  - admin
   - Omar Torrens
   - John Price
   - Corey B Fisher
@@ -35,14 +35,16 @@ featured: true
 date: 2018-01-01
 publishDate: 2021-02-21T21:49:44.114Z
 
+summary: A full adult fly brain (FAFB), imaged at synaptic resolution using TEM.  7,062 brain slices (23 million images, 115 TB on disk, over 1.5 years. ~1/5 of which were acquired autonomously using a custom pick and place Autoloader robot.) 
+
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: Browse data
+   url: https://fafb.catmaid.virtualflybrain.org/?pid=1&zp=132880&yp=241444&xp=529482&tool=navigator&sid0=1&s0=8
 
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://temca2data.org/'
 url_poster: ''
 url_project: ''
 url_slides: ''
