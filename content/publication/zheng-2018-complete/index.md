@@ -30,7 +30,7 @@ authors:
 
 doi: 10.1016/j.cell.2018.06.019
 publication: "*Cell*"
-abstract: "Drosophila melanogaster has a rich repertoire of innate and learned
+abstract: "*Drosophila melanogaster* has a rich repertoire of innate and learned
   behaviors. Its 100,000-neuron brain is a large but tractable target for
   comprehensive neural circuit mapping. Only electron microscopy (EM) enables
   complete, unbiased mapping of synaptic connectivity; however, the fly brain is
