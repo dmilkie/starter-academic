@@ -56,8 +56,8 @@ summary: |-
   * 1/5 acquired autonomously with custom developed Fast Stage Autoloader robot.
 url_dataset: https://temca2data.org/
 url_project: ""
-url_source: https://www.ncbi.nlm.nih.gov/pubmed/30033368
-url_video: "https://vimeo.com/280997626"
+url_source: ""
+url_video: ""
 date: 2018-01-01
 url_slides: ""
 links:
@@ -68,3 +68,17 @@ url_poster: ""
 url_code: ""
 doi: 10.1016/j.cell.2018.06.019
 ---
+
+{{< vimeo 146022717 >}}
+
+News:
+
+* Science magazine : In a ‘tour de force,’ researchers image an entire fly brain in minute detail
+* HHMI News : Complete Fly Brain Imaged at Nanoscale Resolution
+* Discover : Every Neuron of a Fruit Fly Brain, In Nanoscopic Detail
+* ScienceNews : This colorful web is the most complete look yet at a fruit fly’s brain cells
+* National Geographic : Explore This Exquisitely Detailed 3D Brain - National Geographic
+* Nature : 3D image reveals hidden neurons in fruit-fly brain
+* Science : Finalist in 2018 Breakthrough of the year
+
+
