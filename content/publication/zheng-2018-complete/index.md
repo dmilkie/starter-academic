@@ -1,6 +1,6 @@
 ---
-title: A complete electron microscopy volume of the brain of adult Drosophila
-  melanogaster
+title: A complete electron microscopy volume of the brain of adult *Drosophila
+  melanogaster*
 publication_types:
   - "2"
 authors:
@@ -43,7 +43,7 @@ abstract: "*Drosophila melanogaster* has a rich repertoire of innate and learned
   partners of KC dendrites, and unexpected clustering of olfactory projection
   neurons. These reconstructions show that this freely available EM volume
   supports mapping of brain-spanning circuits, which will significantly
-  accelerate Drosophila neuroscience. "
+  accelerate *Drosophila* neuroscience. "
 featured: true
 date: 2018-01-01
 publishDate: 2021-02-21T21:49:44.114Z
