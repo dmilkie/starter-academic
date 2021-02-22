@@ -70,12 +70,12 @@ doi: 10.1016/j.cell.2018.06.019
 ---
 {{< vimeo 280997626 >}}
 
-News:
+### Press:
 
-* Science magazine : [In a ‘tour de force,’ researchers image an entire fly brain in minute detail](http://www.sciencemag.org/news/2018/07/tour-de-force-researchers-image-entire-fly-brain-minute-detail)
-* HHMI News : Complete Fly Brain Imaged at Nanoscale Resolution
-* Discover : Every Neuron of a Fruit Fly Brain, In Nanoscopic Detail
-* ScienceNews : This colorful web is the most complete look yet at a fruit fly’s brain cells
-* National Geographic : Explore This Exquisitely Detailed 3D Brain - National Geographic
-* Nature : 3D image reveals hidden neurons in fruit-fly brain
-* Science : Finalist in 2018 Breakthrough of the year
+* Science: Finalist in [2018 Breakthrough of the year](http://vis.sciencemag.org/breakthrough2018/)
+* Science: [In a ‘tour de force,’ researchers image an entire fly brain in minute detail](http://www.sciencemag.org/news/2018/07/tour-de-force-researchers-image-entire-fly-brain-minute-detail)
+* HHMI News: [Complete Fly Brain Imaged at Nanoscale Resolution](https://www.hhmi.org/news/complete-fly-brain-imaged-at-nanoscale-resolution)
+* Discover : [Every Neuron of a Fruit Fly Brain, In Nanoscopic Detail](http://blogs.discovermagazine.com/d-brief/2018/07/19/fruit-fly-brain-nanoscale-every-neuron/#.W1MpeNhKiL6)
+* ScienceNews : [This colorful web is the most complete look yet at a fruit fly’s brain cells](https://www.sciencenews.org/article/most-complete-look-yet-fruit-fly-brain-cells)
+* National Geographic : [Explore This Exquisitely Detailed 3D Brain](https://www.nationalgeographic.com/science/2018/07/news-neurology-neuron-mapping-fly-drosophila/) 
+* Nature : [3D image reveals hidden neurons in fruit-fly brain](https://www.nature.com/articles/d41586-018-05782-x)
