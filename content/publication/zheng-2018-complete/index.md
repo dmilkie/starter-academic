@@ -68,7 +68,6 @@ url_poster: ""
 url_code: ""
 doi: 10.1016/j.cell.2018.06.019
 ---
-{{< vimeo 280997626 >}}
 
 ### Press:
 
