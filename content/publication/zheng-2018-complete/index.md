@@ -48,7 +48,14 @@ featured: true
 date: 2018-01-01
 publishDate: 2021-02-21T21:49:44.114Z
 
-summary: A full adult fly brain (FAFB), imaged at synaptic resolution using TEM.  7,062 brain slices (23 million images, 115 TB on disk, over 1.5 years. ~1/5 of which were acquired autonomously using a custom pick and place Autoloader robot.) 
+summary: |2- 
+  A full adult fly brain (FAFB), imaged at synaptic resolution using TEM.  
+  
+  * 7,062 brain slices 
+  * 23 million images
+  * 115 TB on disk
+  * Over 1.5 years
+  * ~1/5 of which were acquired autonomously using our custom developed pick and place Autoloader robot.
 
 url_pdf: ''
 url_code: ''
