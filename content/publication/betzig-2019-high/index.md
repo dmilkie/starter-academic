@@ -8,7 +8,7 @@ publication_types:
 authors:
   - Robert Eric Betzig
   - Tsung-li Liu
-  - Daniel E Milkie
+  - admin
   - Kai Wang
   - Wesley Legant
 publication: ""
