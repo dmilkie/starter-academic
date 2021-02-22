@@ -14,7 +14,8 @@ abstract: "*Drosophila melanogaster* has a rich repertoire of innate and learned
   supports mapping of brain-spanning circuits, which will significantly
   accelerate *Drosophila* neuroscience. "
 url_pdf: ""
-title: A complete electron microscopy volume of the brain of adult Drosophila
+title: TEM imaging of an entire fly brain
+subtitle: A complete electron microscopy volume of the brain of adult Drosophila
   melanogaster
 publication_types:
   - "2"
