@@ -1,5 +1,6 @@
 ---
-title: Correlative three-dimensional super-resolution and block-face electron
+title: Correlative superresolution light microscopy and electron microscopy
+subtitle: Correlative three-dimensional super-resolution and block-face electron
   microscopy of whole vitreously frozen cells
 publication_types:
   - "2"
@@ -26,7 +27,6 @@ authors:
   - David J Solecki
   - Eric Betzig
   - Harald F Hess
-
 doi: 10.1126/science.aaz5357
 publication: "*Science*"
 abstract: Within cells, the spatial compartmentalization of thousands of
