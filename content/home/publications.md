@@ -23,7 +23,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 'AO, Lattice, BigData'
+    tag: 'AO'
     category: ''
     publication_type: ''
     author: ''
