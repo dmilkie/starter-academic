@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Scientist
-    company: HHMI, Janelia Research Campus \ Betzig Group
+    company: HHMI, Janelia Research Campus - Betzig Group
     company_url: 'https://www.janelia.org'
     location: Ashburn, VA
     date_start: '2015-10-01'
@@ -40,7 +40,7 @@ experience:
         * MOSAIC (Adaptive Optics added to everything we can in one scope)
         
   - title: VP of Scientific Software
-    company: Sciotex/Coleman Technologies
+    company: Coleman Technologies (now named Sciotex)
     company_url: 'https://sciotex.com/'
     location: Newtown Square, PA
     date_start: '2008-05-01'
@@ -54,7 +54,7 @@ experience:
     
     
   - title: Graduate Student Researcher
-    company: University of Pennsylvania \ Kikkawa Group
+    company: University of Pennsylvania - Kikkawa Group
     company_url: 'https://www.physics.upenn.edu/people/standing-faculty/jay-kikkawa'
     location: Philadelphia, PA
     date_start: '2002-09-01'
