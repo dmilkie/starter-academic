@@ -3,7 +3,6 @@ title: Expansion Microscopy + Lattice Lightsheet for rapid mouse & fly brain
   synaptic imaging
 subtitle: Cortical column and whole brain imaging of neural circuits with
   molecular contrast and nanoscale resolution
-date: "2019-01-19"
 publication_types:
   - "2"
 authors:
@@ -38,7 +37,6 @@ authors:
   - Yoshinori Aso
   - Edward S Boyden
   - Eric Betzig
-
 doi: 10.1126/science.aau8302
 publication: "*Science*"
 abstract: Optical and electron microscopy have made tremendous inroads toward
@@ -55,6 +53,9 @@ abstract: Optical and electron microscopy have made tremendous inroads toward
   stereotypy, and structural correlations to behavior or neural activity, all
   with molecular contrast.
 featured: true
-
+tags:
+  - AO
+  - BigData
+  - Lattice
+date: 2019-01-19
 ---
-
