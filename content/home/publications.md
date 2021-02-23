@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Selected Publications
+title: Selected Publications
 subtitle: ''
 
 content:
@@ -34,9 +34,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+[Complete publication list](./publication/).
 {{% /callout %}}
