@@ -54,7 +54,6 @@ abstract: Optical and electron microscopy have made tremendous inroads toward
   with molecular contrast.
 featured: true
 tags:
-  - AO
   - BigData
   - Lattice
 date: 2019-01-19
