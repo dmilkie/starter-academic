@@ -22,6 +22,7 @@ abstract: We describe an adaptive optics method that modulates the intensity or
   scattering mouse brain, a single aberration correction improved structural and
   functional imaging of fine neuronal processes over a large imaging volume.
 featured: false
+tags: []
 date: 2014-01-01
 publishDate: 2021-02-21T21:49:44.079Z
 ---
