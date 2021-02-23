@@ -1,5 +1,5 @@
 ---
-title: AO + Two-photon, confocal
+title: Two-photon, confocal + AO
 subtitle: Rapid adaptive optical recovery of optimal resolution over large volumes
 publication_types:
   - "2"
