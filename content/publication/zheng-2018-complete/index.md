@@ -45,6 +45,8 @@ authors:
   - Bock, Davi D
 publication: "*Cell*"
 featured: true
+categories:
+  - Select
 image:
   filename: featured.jpg
   focal_point: RIGHT
