@@ -35,6 +35,8 @@ featured: false
 tags:
   - AO
   - Lattice
+categories:
+  - Select
 date: 2018-01-01
 publishDate: 2021-02-21T21:49:44.115Z
 ---
