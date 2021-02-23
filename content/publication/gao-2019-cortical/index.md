@@ -56,5 +56,7 @@ featured: true
 tags:
   - BigData
   - Lattice
+categories:
+  - Select
 date: 2019-01-19
 ---
