@@ -1,6 +1,6 @@
 ---
 title: Lattice light-sheet microscopy
-subtitle: Lattice light-sheet microscopy: Imaging molecules to embryos at high spatiotemporal resolution
+subtitle: Lattice light-sheet microscopy, Imaging molecules to embryos at high spatiotemporal resolution
 publication_types:
   - "2"
 authors:
