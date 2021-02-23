@@ -1,9 +1,9 @@
 ---
----
 title: Expansion Microscopy + Lattice Lightsheet for rapid mouse & fly brain
   synaptic imaging
 subtitle: Cortical column and whole brain imaging of neural circuits with
   molecular contrast and nanoscale resolution
+date: "2019-01-19"
 publication_types:
   - "2"
 authors:
