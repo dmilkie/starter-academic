@@ -1,11 +1,38 @@
 ---
-title: "Cortical column and whole brain imaging of neural circuits with molecular contrast and nanoscale resolution"
+title: Expansion Microscopy + Lattice Lightsheet for rapid mouse & fly brain
+  synaptic imaging
+subtitle: Cortical column and whole brain imaging of neural circuits with
+  molecular contrast and nanoscale resolution
+publication_types:
+  - "2"
+authors:
+  - Ruixuan Gao
+  - Shoh M Asano
+  - Srigokul Upadhyayula
+  - Pisarev Igor
+  - admin
+  - Tsung-Li Liu
+  - Singh Ved
+  - Graves Austin
+  - Grace H Huynh
+  - Yongxin Zhao
+  - others
+doi: 10.1126/science.aau8302
+publication: "*Science*"
+abstract: Optical and electron microscopy have made tremendous inroads toward
+  understanding the complexity of the brain. However, optical microscopy offers
+  insufficient resolution to reveal subcellular details, and electron microscopy
+  lacks the throughput and molecular contrast to visualize specific molecular
+  constituents over millimeter-scale or larger dimensions. We combined expansion
+  microscopy and lattice light-sheet microscopy to image the nanoscale spatial
+  relationships between proteins across the thickness of the mouse cortex or the
+  entire Drosophila brain. These included synaptic proteins at dendritic spines,
+  myelination along axons, and presynaptic densities at dopaminergic neurons in
+  every fly brain region. The technology should enable statistically rich,
+  large-scale studies of neural development, sexual dimorphism, degree of
+  stereotypy, and structural correlations to behavior or neural activity, all
+  with molecular contrast.
+featured: true
 date: 2018-01-01
-publishDate: 2021-02-21T21:49:44.118215Z
-authors: ["Ruixuan Gao", "Shoh M Asano", "Srigokul Upadhyayula", "Pisarev Igor", "Daniel E Milkie", "Tsung-Li Liu", "Singh Ved", "Graves Austin", "Grace H Huynh", "Yongxin Zhao", " others"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*bioRxiv*"
+publishDate: 2021-02-21T21:49:44.118Z
 ---
-
