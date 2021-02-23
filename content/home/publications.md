@@ -23,11 +23,8 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: 
-    - AO
-    - BigData
-    - Lattice
-    category: ''
+    tag: ''
+    category: 'Select'
     publication_type: ''
     author: ''
     exclude_featured: true
