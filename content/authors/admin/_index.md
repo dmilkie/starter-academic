@@ -40,10 +40,10 @@ I am a Senior Scientist in Nobel Laureate [Eric Betzig's group](https://www.jane
 
 Cells did not evolve to live on the glass coverslip nor under the burning intensity of high power lasers. Unlocking what cells and biology are doing *dynamically* and in their *native* environment is key to understanding how complex biologic systems work.  
 
-I create the microscope hardware and software control systems for the Betzig Group (Lattice Light Sheet, Structured Illumination, Adaptive Optics Lattice Light Sheet, 5-objective Opposing Objective Microscope, Cryo-SIM/-PALM), and bring to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
+I create the microscope hardware and software control systems for the Betzig Group and others, and bring to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
 
-I build novel advanced imaging tools, first, for the hands of power users. Then a large investment comes next: taking that achieved wisdom and baking it into the hardware and software, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn machine in a single lab doing a solo experiment.
+I build, first, for the hands of power users. Next comes a large investment: taking their achieved wisdom and baking it into new hardware and software version, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn machine in a single lab doing a hero experiment.
 
-Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) that are like catnip to my future.
+Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) which are the catnip to my future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
