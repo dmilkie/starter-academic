@@ -1,6 +1,5 @@
 ---
-title: Composites reinforced with Carbon nanotubes for enhanced strength and
-  properties
+title: Composites reinforced with carbon nanotubes enhances strength and properties
 subtitle: Carbon nanotube aerogels
 publication_types:
   - "2"
