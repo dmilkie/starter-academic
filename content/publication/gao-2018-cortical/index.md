@@ -16,7 +16,28 @@ authors:
   - Graves Austin
   - Grace H Huynh
   - Yongxin Zhao
-  - others
+  - John Bogovic
+  - Jennifer Colonell
+  - Carolyn M Ott
+  - Christopher Zugates
+  - Susan Tappan
+  - Alfredo Rodriguez
+  - Kishore R Mosaliganti
+  - Shu-Hsien Sheu
+  - H Amalia Pasolli
+  - Song Pang
+  - C Shan Xu
+  - Sean G Megason
+  - Harald Hess
+  - Jennifer Lippincott-Schwartz
+  - Adam Hantman
+  - Gerald M Rubin
+  - Tom Kirchhausen
+  - Stephan Saalfeld
+  - Yoshinori Aso
+  - Edward S Boyden
+  - Eric Betzig
+
 doi: 10.1126/science.aau8302
 publication: "*Science*"
 abstract: Optical and electron microscopy have made tremendous inroads toward
