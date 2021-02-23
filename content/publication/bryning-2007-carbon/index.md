@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Mateusz B Bryning
-  - Daniel E Milkie
+  - admin
   - Mohammad F Islam
   - Lawrence A Hough
   - James M Kikkawa
