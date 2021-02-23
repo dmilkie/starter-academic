@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Recent Selected Publications
 subtitle: ''
 
 content:
@@ -23,7 +23,7 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
+    tag: 'AO, Lattice, BigData'
     category: ''
     publication_type: ''
     author: ''
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 3
 ---
 
 {{% callout note %}}
