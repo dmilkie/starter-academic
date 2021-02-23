@@ -32,6 +32,9 @@ abstract: True physiological imaging of subcellular dynamics requires studying
   may offer insights into how cells harness their intrinsic variability to adapt
   to different physiological environments.
 featured: false
+tags:
+  - AO
+  - Lattice
 date: 2018-01-01
 publishDate: 2021-02-21T21:49:44.115Z
 ---
