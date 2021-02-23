@@ -32,6 +32,9 @@ abstract: "Super-resolution fluorescence microscopy is distinct among nanoscale
   In addition, we examined mitochondria, actin, and the Golgi apparatus dynamics
   in three dimensions."
 featured: false
+tags:
+  - SIM
+categories: []
 date: 2015-01-01
 publishDate: 2021-02-21T21:49:44.076Z
 ---
