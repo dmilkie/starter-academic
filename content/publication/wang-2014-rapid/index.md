@@ -1,5 +1,6 @@
 ---
-title: Rapid adaptive optical recovery of optimal resolution over large volumes
+title: AO + Two-photon, confocal
+subtitle: Rapid adaptive optical recovery of optimal resolution over large volumes
 publication_types:
   - "2"
 authors:
@@ -21,6 +22,14 @@ abstract: Using a descanned, laser-induced guide star and direct wavefront
   over large volumes (>240 mm per side). We applied this to image fine neuronal
   processes and subcellular dynamics within the zebrafish brain.
 featured: false
+tags:
+  - AO
+  - Two-photon
+categories:
+  - Select
 date: 2014-01-01
 publishDate: 2021-02-21T21:49:44.078Z
 ---
+## Press
+
+https://www.hhmi.org/news/new-technique-takes-cues-astronomy-and-ophthalmology-sharpen-microscope-images
