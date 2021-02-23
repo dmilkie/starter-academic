@@ -6,37 +6,33 @@ subtitle: Cortical column and whole brain imaging of neural circuits with
 publication_types:
   - "2"
 authors:
-  - Ruixuan Gao
-  - Shoh M Asano
-  - Srigokul Upadhyayula
-  - Pisarev Igor
+  - B. C. Chen
+  - W. R. Legant
+  - K. Wang
+  - L. Shao
   - admin
-  - Tsung-Li Liu
-  - Singh Ved
-  - Graves Austin
-  - Grace H Huynh
-  - Yongxin Zhao
-  - John Bogovic
-  - Jennifer Colonell
-  - Carolyn M Ott
-  - Christopher Zugates
-  - Susan Tappan
-  - Alfredo Rodriguez
-  - Kishore R Mosaliganti
-  - Shu-Hsien Sheu
-  - H Amalia Pasolli
-  - Song Pang
-  - C Shan Xu
-  - Sean G Megason
-  - Harald Hess
-  - Jennifer Lippincott-Schwartz
-  - Adam Hantman
-  - Gerald M Rubin
-  - Tom Kirchhausen
-  - Stephan Saalfeld
-  - Yoshinori Aso
-  - Edward S Boyden
-  - Eric Betzig
+  - M. W. Davidson
+  - C. Janetopoulos
+  - X. F. S. Wu
+  - J. A. Hammer
+  - Z. Liu
+  - B. P. English
+  - Y. Mimori-Kiyosue
+  - D. P. Romero
+  - A. T. Ritter
+  - J. Lippincott-Schwartz
+  - L. Fritz-Laylin
+  - R. D. Mullins
+  - D. M. Mitchell
+  - J. N. Bembenek
+  - A. C. Reymann
+  - R. Bohme
+  - S. W. Grill
+  - J. T. Wang
+  - G. Seydoux
+  - U. S. Tulu
+  - D. P. Kiehart
+  - E. Betzig
 doi: 10.1126/science.aau8302
 publication: "*Science*"
 abstract: Optical and electron microscopy have made tremendous inroads toward
