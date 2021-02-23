@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Rui Liu
-  - Daniel E Milkie
+  - admin
   - Aaron Kerlin
   - Bryan MacLennan
   - Na Ji
