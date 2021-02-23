@@ -46,6 +46,7 @@ abstract: Within cells, the spatial compartmentalization of thousands of
 featured: true
 tags:
   - BigData
+  - SIM
 image:
   focal_point: TOPLEFT
 date: 2020-01-01
