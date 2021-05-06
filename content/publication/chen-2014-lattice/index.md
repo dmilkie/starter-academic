@@ -52,5 +52,7 @@ tags:
   - Lattice
 categories:
   - Select
+image:
+  filename: thumbnail.jpg
 date: 2014-08-01
 ---
