@@ -47,4 +47,5 @@ I build, first, for the hands of power users. Next comes a large investment: tak
 Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) which are the catnip to my future.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Milkie_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 {{< icon name="book" pack="fas" >}} View my {{< staticref "https://scholar.google.com/citations?hl=en&user=0BbrwikAAAAJ&view_op=list_works&sortby=pubdate" "newtab" >}}publications{{< /staticref >}}.
