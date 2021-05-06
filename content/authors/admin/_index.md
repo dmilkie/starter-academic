@@ -42,7 +42,7 @@ Cells did not evolve to live on the glass coverslip nor under the burning intens
 
 I create the microscope hardware and software control systems for the Betzig Group and others, and bring to bear any new technology we can leverage (FPGA, Spatial Light Modulators, Deformable Mirrors, Piezo stage, >GB/s cameras,... ).  
 
-I build, first, for the hands of power users. Next comes a large investment: taking their achieved wisdom and baking it into new hardware and software version, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn machine in a single lab doing a hero experiment.
+I build, first, for the hands of power users. Next comes a large investment: taking their achieved wisdom and baking it into new hardware and software versions, but it's totally worth it.  The pay-off comes with wide impact distribution, commercialization, and use by non-specialists.  Tech can't be a limited to a unicorn machine in a single lab doing a hero experiment.
 
 Volumetric imaging microscopy platforms deliver a firehose of 4D data, which generate a host of new, enticing challenges (data transfer, storage, curation, processing, visualization, ML analysis) which are the catnip to my future.
 
